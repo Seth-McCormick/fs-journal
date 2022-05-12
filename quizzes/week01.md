@@ -64,11 +64,11 @@ Body tag
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+The ability to change from the main axis to the cross axis and how boxes are aligned.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+height, width, margin, padding
 ```
