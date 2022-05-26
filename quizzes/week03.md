@@ -16,7 +16,9 @@ let property = 'name'
 ```
 <!-- enter you answer in the space below -->
 ```
-staff.property
+console.log(property)?
+staff.property?
+return property?
 ```
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
@@ -36,27 +38,27 @@ Single Responsibility principle
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
 ```
-
+a fake stand in object for the real object
 ```
 
 **7.** What is the purpose of the `MVC` pattern?
 <!-- enter you answer in the space below -->
 ```
-
+to help us create clean code(help us arrange our code a similar way, we can build bigger applications and have a nice order.)
 ```
 **8.** What is the job of the `Controller` in the `MVC` Pattern?
 <!-- enter you answer in the space below -->
 ```
-
+the controller is the waiter who comes and takes our order and gives it to the cooks aka service. takes in user input.
 ```
 
 **9.** What is the job of the `Service` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
-
+the service is the cook who goes into freezer to get the ingredients (takes away from the contents). performs business logic.
 ```
 **10.** What is the job of the `Model` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
-
+what the data inside the appstate is supposed to look like i.e what does the data have... name,price, quantity.
 ```
