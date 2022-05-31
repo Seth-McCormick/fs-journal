@@ -33,7 +33,7 @@ Single Responsibility principle
 **5.** What the difference between a `class` and an instance of a `class`?
 <!-- enter you answer in the space below -->
 ```
-
+the class is the parent that has unchangeable data and an instance of a class is the ability to make adjustments without effecting the overall data and its action.
 ```
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
