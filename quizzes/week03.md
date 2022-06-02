@@ -19,6 +19,8 @@ let property = 'name'
 console.log(property)?
 staff.property?
 return property?
+
+staff[property]
 ```
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
