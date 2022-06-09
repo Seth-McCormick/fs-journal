@@ -54,5 +54,5 @@ request, response
 Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 <!-- enter you answer in the space below -->
 ```
-
+?tag=winter
 ```
