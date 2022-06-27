@@ -4,7 +4,7 @@
 **1.** Describe the two ways to bind Data in Vue?
 <!-- enter you answer in the space below -->
 ```
-
+: and v-bind are two ways of binding data in vue, 
 ```
 
 **2.** The `SPA` acronym stands for what?
