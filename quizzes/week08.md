@@ -19,30 +19,32 @@ npm i
 **4.** _______ are used to provide your application with specific data based on it's environment. For example: connections strings, private keys or port. Fill in the blank.
 <!-- enter you answer in the space below -->
 ```
-
+API's
 ```
 **5.** What are the two ways to view the logs from your Heroku app.
 <!-- enter you answer in the space below -->
 ```
+check logcat, can also check heroku logs since it displays the last 100 lines of the log 
+
 
 ```
 **6.** How do you update an app already deployed on Heroku?
 <!-- enter you answer in the space below -->
 ```
-
+clone from github, make changes then commit, login to heroku, set remote for project, push to heroku master to deploy updates 
 ```
 **7.** Why is branching important to version control?
 <!-- enter you answer in the space below -->
 ```
-
+branching is important because it organizes your branches and development resources , allowing you to release on time
 ```
 **8.** When should code review happen?
 <!-- enter you answer in the space below -->
 ```
-
+before you merge code
 ```
 **9.** What is the term used to define combining two branches?
 <!-- enter you answer in the space below -->
 ```
-
+merge
 ```
